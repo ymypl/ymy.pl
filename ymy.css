@@ -4,3 +4,8 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 }
+
+.motto {
+	color: white;
+	font-family: 'Wendy One', sans-serif;
+}
